@@ -1,0 +1,5 @@
+# Link p/ download do git
+
+(git-scm.com/download)
+
+O Gitsh bash é um terminal extendido p/ otimizar o uso do Git.
